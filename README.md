@@ -1,4 +1,4 @@
-=white"&&&Bem-vindo(a) ao perfil Paulo Silva..!😁
+Bem-vindo(a) ao perfil Paulo Silva..!😁
 
  <div>
    <a href="https://github.com/PauloSilva">
