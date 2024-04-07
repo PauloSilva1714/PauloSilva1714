@@ -18,5 +18,5 @@ Bem-vindo(a) ao perfil Paulo Silva..!😁
  
 <div> 
   <a href="https://youtube.com/@PauloSilva-yp2do?si=jMTHi3YP2FaXAUZn="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/paulo1714silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> href="https://x.com/PauloSi32639981?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/paulo1714silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><a href="https://x.com/PauloSi32639981?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
 </div>
